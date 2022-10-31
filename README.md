@@ -164,3 +164,4 @@ Updates an instance based on the class name, id, and kwargs passed. Update the f
 (hbnb)
 Authors
 Vincent John
+Sheila Nyambura
